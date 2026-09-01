@@ -2,7 +2,7 @@
 
 This repository contains files for the workshop
 
-1. click on my shared google drive link below to access the python ipynb file containing the model:
+1. Click on my shared google drive link below to access the python ipynb file containing the model:
 
 https://drive.google.com/file/d/12xZzyemVq1uwr423jpJBJ_eZL00cjCrF/view?usp=sharing
 
